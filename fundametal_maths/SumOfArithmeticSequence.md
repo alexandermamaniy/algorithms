@@ -2,7 +2,7 @@
 
 useful to determine the iteration in nested loops
 
-![img.png](images/img.png)
+![img.png](../images/img.png)
 example: 
 
 Problem:
@@ -32,10 +32,3 @@ This is an arithmetic sequence with first term = 1, last term = n, and differenc
 
 The sum of this sequence is:
 total = n * (n + 1) / 2
-
-```python
-def sum_of_arithmetic_sequence(array: list[int]) -> int:
-    """ The array must be sorted and be a arithmetic sequence """
-    
-    return n * (n + 1) // 2
-```
