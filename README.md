@@ -66,7 +66,6 @@ Use this guide as a reference when you're trying to identify which algorithm mig
     Greedy: Kadane's Algorithm
 
 ### "X Sum"
-
     Two pointer: Two sum
 
 ### "Max/longest sequence"
